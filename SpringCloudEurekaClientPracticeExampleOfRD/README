@@ -1,0 +1,3 @@
+Create Eureka client service with having ribbon dependancy for client side load balancing
+@LoadBalanced for creating the Rest template object then call producer service without hostname and ip address.
+@Enable Eureka client for registering service in Eureka server.
